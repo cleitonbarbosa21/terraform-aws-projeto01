@@ -38,18 +38,13 @@ export AWS_SECRET_ACCESS_KEY="sua-secret-key"
 ✅ Opção 2 – Arquivo de credenciais
 Configure o arquivo ~/.aws/credentials:
 
-ini
-Copiar
-Editar
 [default]
 aws_access_key_id = SUA_ACCESS_KEY
 aws_secret_access_key = SUA_SECRET_KEY
 
 
 📁 Estrutura do Projeto
-css
-Copiar
-Editar
+
 terraform-aws-projeto01/
 ├── main.tf
 ├── variables.tf
@@ -62,17 +57,13 @@ terraform-aws-projeto01/
 
 🚀 Como executar
 1. Inicialize o Terraform
-bash
-Copiar
-Editar
+
 terraform init
+
 2. Verifique o plano de execução
-bash
-Copiar
-Editar
+
 terraform plan
+
 3. Crie os recursos na AWS
-bash
-Copiar
-Editar
+
 terraform apply
