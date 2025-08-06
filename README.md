@@ -28,6 +28,7 @@ Este projeto utiliza [Terraform](https://www.terraform.io/) para provisionar uma
 
 Você pode configurar suas credenciais de duas formas:
 
+###
  ✅ Opção 1 – Variáveis de ambiente
 
 ```bash
