@@ -28,8 +28,8 @@ Este projeto utiliza [Terraform](https://www.terraform.io/) para provisionar uma
 
 Você pode configurar suas credenciais de duas formas:
 
-###
- ✅ Opção 1 – Variáveis de ambiente
+
+ ###✅ Opção 1 – Variáveis de ambiente
 
 ```bash
 export AWS_ACCESS_KEY_ID="sua-access-key"
